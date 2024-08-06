@@ -4,7 +4,7 @@
 
 The Backend folder: API built to offer user registration, update and authentication routes.
 
-The Frontend folder: Has basic configuration for the routes provided by the api.
+The Frontend folder: Has basic configuration for docker use.
 
 ## How to start! :rocket:
 
