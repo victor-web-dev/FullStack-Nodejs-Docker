@@ -8,11 +8,13 @@ The Frontend folder: Has basic configuration for the routes provided by the api.
 
 ## How to start! :rocket:
 
+```
 - Clone the repository
 
 - cd folderName
 
 - docker-compose up -d
+```
 
 ## **Before start**
 
@@ -42,7 +44,7 @@ Start script: `npm start`
 <details>
 
   <summary>
-    <strong>Scripts</strong>
+    <strong>Scripts API</strong>
   </summary>
 
 ```
@@ -92,7 +94,7 @@ docker-compose up backend -d
 <summary>
   <strong>Routes</strong>
 </summary>
-
+<br/>
 <details>
 
   <summary>
@@ -333,10 +335,11 @@ JSON Body request
 <summary>
   <strong>Dependencies</strong>
 </summary>
-
+<br/>
 <details>
 <summary>Front</summary>
 
+```
 "dependencies": {
 "react": "^18.3.1",
 "react-dom": "^18.3.1"
@@ -353,6 +356,8 @@ JSON Body request
 "typescript": "^5.2.2",
 "vite": "^5.3.4"
 }
+
+```
 
 </details>
 
